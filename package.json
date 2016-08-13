@@ -1,0 +1,19 @@
+{
+  "name": "nyteetime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Markliebs/NYTeeTime.git"
+  },
+  "author": "Mark Lieberman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Markliebs/NYTeeTime/issues"
+  },
+  "homepage": "https://github.com/Markliebs/NYTeeTime#readme"
+}
